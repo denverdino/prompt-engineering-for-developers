@@ -136,3 +136,8 @@ dmypy.json
 .pyre/
 
 .idea
+Introduction.md
+docs/node_modules
+docs/package-lock.json
+docs/package.json
+docs/_book
